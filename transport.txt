@@ -1,3 +1,4 @@
 its file from acer
 its file from acer 2
 3-th line
+new line from gui
